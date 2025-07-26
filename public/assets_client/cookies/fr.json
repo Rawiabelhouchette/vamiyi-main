@@ -1,0 +1,10 @@
+{
+  "consentModal": {
+    "title": "Bienvenue, c'est l'heure des cookies ! 🍪",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience. Certains sont essentiels au bon fonctionnement du site. Vous pouvez accepter ou refuser ces cookies.",
+    "acceptAllBtn": "Accepter",
+    "acceptNecessaryBtn": "Refuser",
+    "showPreferencesBtn": "",
+    "footer": ""
+  }
+}
